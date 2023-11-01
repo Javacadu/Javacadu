@@ -1,4 +1,13 @@
-### Hi there 👋
+**Greetings!** 👋 **I'm Jacob Atanacio a Computer Science Student in Napa Valley!**
+
+- I currently am attending 🌩️**Napa Valley College** transferring out as a junior with an Associate for Transfer in Computer Science to [School TBD]
+- Recently I've learned a lot about 🔐ML model security, 🪪Personal Identifyable Information(PII), and Named Entity Recognition(NER).
+-  My top hobbies include 🏐Volleyball, 🧑‍🍳Cooking, 👾Gaming, 🎶Exploring new music, and 🧑‍💻Watching hours of YouTube.
+- 💬Feel free to reach out to me ~ I'd love to chat!
+  - jacobatanacio@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/jacob-atanacio)
+
+
 
 <!--
 **Javacadu/Javacadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
