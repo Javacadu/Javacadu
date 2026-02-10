@@ -1,25 +1,33 @@
-**Greetings!** 👋 **I'm Jacob Atanacio a Computer Science Student in Napa Valley!**
+## Greetings! 👋 I'm Jacob Atanacio — a Data Science Major
 
-- I currently am attending 🌩️**Napa Valley College** transferring out as a junior with an Associate for Transfer in Computer Science to [School TBD]
-- My past internship at Enkrypt AI taught me a lot about 🔐ML model security, 🪪Personal Identifiable Information(PII), and Named Entity Recognition(NER).
--  My top hobbies include 🏐Volleyball, 🧑‍🍳Cooking, 👾Gaming, 🎶Exploring new music, and 🧑‍💻Watching hours of mukbang videos on YouTube.
-- 💬Feel free to reach out ~ I'd love to chat about any of the above topics and more!
-  - jacobatanacio@gmail.com
-  - [LinkedIn](https://www.linkedin.com/in/jacob-atanacio)
+I'm passionate about creating efficient and sustainable workflows, process automation, ethical ML applications, and leveraging software as a medium to make my life and others' easier.
 
+### 🎯 Career Interests
 
+- 📊 Data Science
+- 🛠️ Data Engineering
+- 🤖 ML / AI
 
-<!--
-**Javacadu/Javacadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 What I'm Currently Working On
 
-Here are some ideas to get you started:
+- Expanding my data science and ML skill set through hands-on projects
+- Building tools and workflows that automate everyday processes
+- Exploring ethical approaches to machine learning applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+
+| Project | Description | Tech | My Contributions |
+|---------|-------------|------|------------------|
+| [HotSpot](https://github.com/Javacadu/HotSpotHackDavis25) | A HackDavis 2025 project that compiles reliable wildfire support information (pre, during, and post-fire) into one accessible platform, with an interactive map displaying fire vulnerability and Wildfire Hazard Potential data. | TypeScript, Next.js, Python | Built backend demographic data pipelines and helped create the interactive map interface |
+| [Student Management System](https://github.com/Javacadu/student-management) | A Python-based student management system with a Tkinter GUI for managing students, assignments, grades, and project teams, with CSV persistence. | Python, Tkinter, pandas | Developed the GUI, grade calculation logic, and CSV data export features |
+| [Berkeley CS 61B Coursework](https://github.com/Javacadu/Berkeley-CS61B-JacobA) | Labs and projects from UC Berkeley's CS 61B Data Structures course, covering fundamental data structures and algorithms. | Java | Completed labs (1–8) and projects (0–3) including data structure implementations |
+| [Personal Website](https://github.com/Javacadu/my-website) | My personal portfolio website built with React. | JavaScript, React | Designed and built the full site |
+
+### 🧗 Outside of Tech
+
+I enjoy bouldering, cooking, baking, running, hiking, weightlifting, gardening, photography/videography, and homelabbing.
+
+### 📫 Let's Connect
+
+- 📧 jacobatanacio@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/jacob-atanacio)
