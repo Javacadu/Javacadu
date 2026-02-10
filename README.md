@@ -20,7 +20,6 @@ I'm passionate about creating efficient and sustainable workflows, process autom
 |---------|-------------|------|------------------|
 | [HotSpot](https://github.com/Javacadu/HotSpotHackDavis25) | A HackDavis 2025 project that compiles reliable wildfire support information (pre, during, and post-fire) into one accessible platform, with an interactive map displaying fire vulnerability and Wildfire Hazard Potential data. | TypeScript, Next.js, Python | Built backend demographic data pipelines and helped create the interactive map interface |
 | [Student Management System](https://github.com/Javacadu/student-management) | A Python-based student management system with a Tkinter GUI for managing students, assignments, grades, and project teams, with CSV persistence. | Python, Tkinter, pandas | Developed the GUI, grade calculation logic, and CSV data export features |
-| [Berkeley CS 61B Coursework](https://github.com/Javacadu/Berkeley-CS61B-JacobA) | Labs and projects from UC Berkeley's CS 61B Data Structures course, covering fundamental data structures and algorithms. | Java | Completed labs (1–8) and projects (0–3) including data structure implementations |
 | [Personal Website](https://github.com/Javacadu/my-website) | My personal portfolio website built with React. | JavaScript, React | Designed and built the full site |
 
 ### 🧗 Outside of Tech
